@@ -1,0 +1,36 @@
+{
+  "transactions": [
+    {
+      "hash": "0xe33c59deccb50f9cb15a34c6aca0992878ce54c60714183ea42d8e5d7ed0e8f6",
+      "transactionType": "CALL",
+      "contractName": "BasicNft",
+      "contractAddress": "0x08144A8C07E471b0cC8b7CC5D68bD9de6d6EB828",
+      "function": "mintNft(string)",
+      "arguments": [
+        "https://ipfs.io/ipfs/QmXFedsHuCwWoFuMfCQNtWpGmcrwqrkjRhcn1RFMAaEEkt?filename=pug.json"
+      ],
+      "transaction": {
+        "type": "0x02",
+        "from": "0x75de17099c462ba5d75954717b0e4d322c7c6af3",
+        "to": "0x08144a8c07e471b0cc8b7cc5d68bd9de6d6eb828",
+        "gas": "0x34c81",
+        "value": "0x0",
+        "data": "0xda86f4a90000000000000000000000000000000000000000000000000000000000000020000000000000000000000000000000000000000000000000000000000000005568747470733a2f2f697066732e696f2f697066732f516d584665647348754377576f46754d6643514e745770476d63727771726b6a5268636e3152464d416145456b743f66696c656e616d653d7075672e6a736f6e0000000000000000000000",
+        "nonce": "0x6",
+        "accessList": []
+      },
+      "additionalContracts": [],
+      "isFixedGasLimit": false
+    }
+  ],
+  "receipts": [],
+  "libraries": [],
+  "pending": [
+    "0xe33c59deccb50f9cb15a34c6aca0992878ce54c60714183ea42d8e5d7ed0e8f6"
+  ],
+  "returns": {},
+  "timestamp": 1688627244,
+  "chain": 11155111,
+  "multi": false,
+  "commit": "6479cbb"
+}

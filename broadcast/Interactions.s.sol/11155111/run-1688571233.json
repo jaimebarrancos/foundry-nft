@@ -1,0 +1,36 @@
+{
+  "transactions": [
+    {
+      "hash": "0x0d47ed5e80deb0ac003dc1b3584327480074564f95ff188a38bc872806f8714d",
+      "transactionType": "CALL",
+      "contractName": "BasicNft",
+      "contractAddress": "0x08144A8C07E471b0cC8b7CC5D68bD9de6d6EB828",
+      "function": "mintNft(string)",
+      "arguments": [
+        "https://pin.ski/44yj2SG"
+      ],
+      "transaction": {
+        "type": "0x02",
+        "from": "0x75de17099c462ba5d75954717b0e4d322c7c6af3",
+        "to": "0x08144a8c07e471b0cc8b7cc5d68bd9de6d6eb828",
+        "gas": "0x2697d",
+        "value": "0x0",
+        "data": "0xda86f4a90000000000000000000000000000000000000000000000000000000000000020000000000000000000000000000000000000000000000000000000000000001768747470733a2f2f70696e2e736b692f3434796a325347000000000000000000",
+        "nonce": "0x4",
+        "accessList": []
+      },
+      "additionalContracts": [],
+      "isFixedGasLimit": false
+    }
+  ],
+  "receipts": [],
+  "libraries": [],
+  "pending": [
+    "0x0d47ed5e80deb0ac003dc1b3584327480074564f95ff188a38bc872806f8714d"
+  ],
+  "returns": {},
+  "timestamp": 1688571233,
+  "chain": 11155111,
+  "multi": false,
+  "commit": "6479cbb"
+}
